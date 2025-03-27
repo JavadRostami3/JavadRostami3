@@ -1,5 +1,26 @@
-# 💫 About Me:
-About Me:<br>🛠 I’m currently working on:<br><br>Building headless CMS websites with WordPress and React.<br>Creating various Telegram bots using Python.<br>Programming Raspberry Pi for innovative projects.<br>🤝 I’m looking to collaborate on:<br><br>IoT projects such as smart assistants and robotics.<br>🌱 I’m currently learning:<br><br>Arduino programming.<br>Next.js framework.<br>Python libraries for chemistry.<br>💬 Ask me about:<br><br>Web development.<br>IoT and automation projects.<br>Chemistry and Python integrations.<br>⚡ Fun fact:<br>I enjoy blending technology with creativity, whether it's coding, building devices, or exploring scientific innovations.
+## 💫 About Me:
+
+### 🛠 I’m currently working on:
+- Building headless CMS websites with **WordPress** and **React**.
+- Creating various **Telegram bots** using **Python**.
+- Programming **Raspberry Pi** for innovative projects.
+
+### 🤝 I’m looking to collaborate on:
+- **IoT projects** such as smart assistants and robotics.
+
+### 🌱 I’m currently learning:
+- **Arduino programming**.
+- **Next.js framework**.
+- **Python libraries** for chemistry.
+
+### 💬 Ask me about:
+- **Web development**.
+- **IoT and automation projects**.
+- **Chemistry and Python integrations**.
+
+### ⚡ Fun fact:
+I enjoy blending **technology** with **creativity**, whether it's **coding, building devices, or exploring scientific innovations**. 🚀
+
 
 
 ## 🌐 Socials:
